@@ -1,1 +1,11 @@
+# Computer Vision
+opencv-python
 
+# Hand Tracking
+mediapipe
+
+# Arduino Serial Communication
+pyserial
+
+# Numerical Calculations
+numpy
